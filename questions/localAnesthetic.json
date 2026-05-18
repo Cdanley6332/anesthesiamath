@@ -1,0 +1,62 @@
+[
+  {
+    "id": 101,
+    "questionText": "A patient weighing 70 kg requires Lidocaine at a dose of 3 mg/kg. How many milligrams of Lidocaine should you administer?",
+    "correctAnswer": "210 mg",
+    "explanation": "Calculation:\n70 kg × 3 mg/kg = 210 mg"
+  },
+  {
+    "id": 102,
+    "questionText": "Bupivacaine has a maximum recommended dose of 2.5 mg/kg. What is the maximum allowable dose for a 50 kg patient?",
+    "correctAnswer": "125 mg",
+    "explanation": "Calculation:\n50 kg × 2.5 mg/kg = 125 mg"
+  },
+  {
+    "id": 103,
+    "questionText": "Ropivacaine at 0.75% concentration is available. How many milligrams are present in 10 mL?",
+    "correctAnswer": "75 mg",
+    "explanation": "0.75% concentration means 0.75 g per 100 mL (750 mg per 100 mL).\nCalculation:\n750 mg ÷ 10 = 75 mg"
+  },
+  {
+    "id": 104,
+    "questionText": "You administer 20 mL of Lidocaine 2% solution. How many milligrams of Lidocaine have you given?",
+    "correctAnswer": "400 mg",
+    "explanation": "2% Lidocaine = 20 mg/mL\nCalculation:\n20 mg/mL × 20 mL = 400 mg"
+  },
+  {
+    "id": 105,
+    "questionText": "A pediatric patient weighs 15 kg. The recommended dose of Lidocaine is 3 mg/kg. What is the total dose?",
+    "correctAnswer": "45 mg",
+    "explanation": "Calculation:\n15 kg × 3 mg/kg = 45 mg"
+  },
+  {
+    "id": 106,
+    "questionText": "A patient weighs 60 kg, and the maximum dose of Lidocaine without epinephrine is 4 mg/kg. How many mL of 1% Lidocaine can you safely administer?",
+    "correctAnswer": "24 mL",
+    "explanation": "Maximum dose:\n60 kg × 4 mg/kg = 240 mg\n1% Lidocaine = 10 mg/mL\nCalculation:\n240 mg ÷ 10 mg/mL = 24 mL"
+  },
+  {
+    "id": 107,
+    "questionText": "If you inject 30 mL of 0.25% Bupivacaine, how many milligrams have you administered?",
+    "correctAnswer": "75 mg",
+    "explanation": "0.25% = 2.5 mg/mL\nCalculation:\n2.5 mg/mL × 30 mL = 75 mg"
+  },
+  {
+    "id": 108,
+    "questionText": "A patient is given 15 mL of 0.5% Ropivacaine. How many milligrams were administered?",
+    "correctAnswer": "75 mg",
+    "explanation": "0.5% solution = 5 mg/mL\nCalculation:\n5 mg/mL × 15 mL = 75 mg"
+  },
+  {
+    "id": 109,
+    "questionText": "Prilocaine maximum dosage is 8 mg/kg. How much can safely be given to an 80 kg adult?",
+    "correctAnswer": "640 mg",
+    "explanation": "Calculation:\n80 kg × 8 mg/kg = 640 mg"
+  },
+  {
+    "id": 110,
+    "questionText": "You plan to administer 12 mL of Lidocaine 1.5%. How many total milligrams is this?",
+    "correctAnswer": "180 mg",
+    "explanation": "1.5% solution = 15 mg/mL\nCalculation:\n15 mg/mL × 12 mL = 180 mg"
+  }
+]
