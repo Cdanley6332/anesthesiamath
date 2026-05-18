@@ -1,0 +1,8 @@
+[
+  {
+    "id": 301,
+    "questionText": "You mix 500 mg of a drug in 1000 mL of fluid. What is the concentration (mg/mL)?",
+    "correctAnswer": "0.5 mg/mL",
+    "explanation": "Concentration = total mg ÷ total mL = 500 ÷ 1000 = 0.5 mg/mL."
+  }
+]
