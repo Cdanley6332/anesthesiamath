@@ -1,0 +1,8 @@
+[
+  {
+    "id": 401,
+    "questionText": "A drip set delivers 20 gtt/mL. If a patient receives 60 mL/hr, how many gtt/min will they get?",
+    "correctAnswer": "20 gtt/min",
+    "explanation": "60 mL/hr = 1 mL/min.\n1 mL/min × 20 gtt/mL = 20 gtt/min."
+  }
+]
